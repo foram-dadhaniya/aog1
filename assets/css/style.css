@@ -363,7 +363,7 @@ a:focus {
         font-size: 22px !important;
     }
 }
-@media only screen and (max-height: 732px) {
+@media only screen and (max-height: 641px) {
     #screen2 .sub-line h3{
         font-size: 20px;
         margin-bottom: 10px !important;
